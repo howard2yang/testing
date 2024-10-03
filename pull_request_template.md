@@ -5,6 +5,10 @@ Please include a summary of the changes and the related issue. Please also inclu
 
 Fixes # (issue)
 
+
+* [ ] Have you followed the guidelines in our Contributing document?
+* [ ] Have you checked to ensure there aren't other open [Pull Requests](../../../pulls) for the same update/change?
+
 ## Type of change
 
 Please delete options that are not relevant.
